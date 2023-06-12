@@ -5,3 +5,4 @@ pickle
 streamlit
 pandas==1.5.3
 plotly==5.13.1v
+pip==22.2.2
